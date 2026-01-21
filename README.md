@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Miriam 👋
 
-<!--
-**miriammolonx/miriammolonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Educational Technology Director & Researcher**
 
-Here are some ideas to get you started:
+I am a Computer Science graduate and Technical Support bridging the gap between enterprise infrastructure and education policy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Current Focus:**
+* Preparing for Master's research in **Comparative Education (China-Philippines)**.
+* Analyzing Digital Infrastructure gaps in developing nations.
+* Automating educational data using **Python**.
+
+🌱 **My Toolkit:**
+* **Tech:** Python, Pandas, Google Workspace Admin, Shopify Ecosystem.
+* **Research:** ICT Policy, Digital Divide, Educational Management.
+
+📫 **Contact:** [Check out Miriam Juliene Molon’s profile on LinkedIn]
