@@ -13,4 +13,4 @@ I am a Computer Science graduate and Technical Support bridging the gap between 
 * **Tech:** Python, Pandas, Google Workspace Admin, Shopify Ecosystem.
 * **Research:** ICT Policy, Digital Divide, Educational Management.
 
-📫 **Contact:** [Check out Miriam Juliene Molon’s profile on LinkedIn]
+📫 **Contact:** [Check out Miriam Juliene Molon’s profile on LinkedIn](https://ph.linkedin.com/in/miriam-juliene-molon-1986553a7)
