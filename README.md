@@ -13,7 +13,7 @@ I am a Computer Science graduate and Technical Support bridging the gap between 
 * **Tech:** Python, Pandas, Google Workspace Admin, Shopify Ecosystem.
 * **Research:** ICT Policy, Digital Divide, Educational Management.
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 - [Classroom Grade Automator](https://github.com/miriammolonx/classroom-grade-automator): Python-based automation for teachers.
 - [Student Productivity Timer](https://github.com/miriammolonx/student-productivity-timer): Pomodoro tool for intensive study sessions.
 - [EdTech Roadmap](https://github.com/miriammolonx/edtech-learning-roadmap): My research and learning log for Global Education Policy.
