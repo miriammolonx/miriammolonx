@@ -34,4 +34,3 @@ I am a Computer Science graduate and Technical Support Advisor at Shopify. My mi
 
 ### 📫 **Connect with me**
 - [LinkedIn](https://www.linkedin.com/in/miriamjuliene-molon-628629218/)
-- [My Portfolio Website/Linktree (if applicable)]
