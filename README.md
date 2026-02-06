@@ -1,16 +1,23 @@
 # Hi there, I'm Miriam 👋
 
-### **Aspiring Educational Technology Director & Researcher**
-*Bridging the gap between enterprise infrastructure and education policy.*
+### **Aspiring Educational Technology Director | CS Graduate | Lean Six Sigma Certified**
+*Bridging the gap between enterprise infrastructure, data-driven process improvement, and education policy.*
 
-I am a Computer Science graduate and Technical Support Advisor at Shopify. My mission is to leverage data automation and ICT policy to solve infrastructure gaps in developing educational systems.
+I am a Computer Science graduate and Technical Support Advisor at Shopify. I leverage **Lean Six Sigma** methodologies and **Data Automation** to solve infrastructure gaps and optimize workflows within global educational systems.
 
 ---
 
-### 🎯 **2026 Vision**
-- **Candidate for Master's in Comparative Education** at **East China Normal University (ECNU)**.
+### 🎯 **2026 Academic Vision**
+- **Prospective Master’s Candidate** specialized in **Educational Technology & Leadership**.
+- **Target Institutions:** Beijing Normal University (**BNU**), East China Normal University (**ECNU**), and Central China Normal University (**CCNU**).
 - **Research Interest:** Digital Infrastructure gaps and ICT policy in the China-Philippines corridor.
-- **Current Technical Goal:** Advanced automation of educational datasets using Python and Pandas.
+
+---
+
+### 📜 **Professional Certifications**
+- **Lean Six Sigma White Belt** | TaskUs (Methodology: DMAIC for process optimization)
+- **AI for Beginners** | TaskUs (Focus: Generative AI & Prompt Engineering)
+- **Shopify Technical Support Advisor** | 2+ Years Experience in Enterprise Infrastructure
 
 ---
 
@@ -18,16 +25,17 @@ I am a Computer Science graduate and Technical Support Advisor at Shopify. My mi
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Classroom Grade Automator](https://github.com/miriammolonx/classroom-grade-automator)** | Python tool to reduce teacher administrative burden by 10x. | Python |
-| **[Student Data Preprocessor](https://github.com/miriammolonx/student-data-preprocessor)** | Automated pipeline to clean "messy" academic datasets for research. | Pandas, NumPy |
+| **[Classroom Grade Automator](https://github.com/miriammolonx/classroom-grade-automator)** | Applying **Six Sigma** principles to reduce teacher administrative burden by 10x. | Python |
+| **[Student Data Preprocessor](https://github.com/miriammolonx/student-data-preprocessor)** | Automated **Pandas** pipeline to clean "messy" academic datasets for research. | Pandas, NumPy |
 | **[Productivity Timer](https://github.com/miriammolonx/student-productivity-timer)** | Focus tool implementing the Pomodoro technique for intensive study. | Python |
 | **[EdTech Roadmap](https://github.com/miriammolonx/edtech-learning-roadmap)** | Digital log of research in Global ICT Policy and School Management. | Markdown |
 
 ---
 
 ### 🌱 **Technical Toolkit**
-- **Languages:** Python (Pandas, NumPy, Automation scripts), Liquid (Shopify).
-- **Administration:** Google Workspace Admin, Enterprise Infrastructure.
+- **Data & Automation:** Python (Pandas, NumPy), Lean Six Sigma (Process Mapping).
+- **AI & Emerging Tech:** Generative AI Prompting, Educational Software Integration.
+- **Administration:** Google Workspace Admin, Enterprise Infrastructure (Shopify/Liquid).
 - **Research:** ICT Policy, Digital Divide, Comparative Education Management.
 
 ---
