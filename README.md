@@ -1,42 +1,41 @@
 # Hi there, I'm Miriam 👋
 
-### **Aspiring Educational Technology Director | CS Graduate | Lean Six Sigma Certified**
-*Bridging the gap between enterprise infrastructure, data-driven process improvement, and education policy.*
+### **Aspiring EdTech Director | CS Graduate | Process Optimization Specialist**
+*Leveraging data automation and enterprise infrastructure to bridge global education gaps.*
 
-I am a Computer Science graduate and Technical Support Advisor at Shopify. I leverage **Lean Six Sigma** methodologies and **Data Automation** to solve infrastructure gaps and optimize workflows within global educational systems.
-
----
-
-### 🎯 **2026 Academic Vision**
-- **Prospective Master’s Candidate** specialized in **Educational Technology & Leadership**.
-- **Target Institutions:** Beijing Normal University (**BNU**), East China Normal University (**ECNU**), and Central China Normal University (**CCNU**).
-- **Research Interest:** Digital Infrastructure gaps and ICT policy in the China-Philippines corridor.
+I am a Computer Science graduate and Technical Support Advisor at Shopify. I apply **Lean Six Sigma** methodologies to optimize educational workflows and digital infrastructure, specifically within the China-Philippines educational corridor.
 
 ---
 
-### 📜 **Professional Certifications**
-- **Lean Six Sigma White Belt** | TaskUs (Methodology: DMAIC for process optimization)
-- **AI for Beginners** | TaskUs (Focus: Generative AI & Prompt Engineering)
-- **Shopify Technical Support Advisor** | 2+ Years Experience in Enterprise Infrastructure
+### 🎓 **2026 Academic Trajectory**
+My research focus lies in **Educational Leadership & Policy (ELP)**, with a commitment to advancing ICT integration in developing school systems. 
+
+- **Primary Institution:** **East China Normal University (ECNU)** – Targeted for its excellence in International Comparative Education and Policy Research.
+- **Academic Network:** Also exploring synergies with **Beijing Normal University (BNU)** and **Central China Normal University (CCNU)** to broaden the scope of my ICT infrastructure research.
 
 ---
 
-### 🚀 **Featured Projects**
+### 📜 **Professional & Process Credentials**
+- **Lean Six Sigma White Belt** (TaskUs) – Applying DMAIC to reduce administrative friction in schools.
+- **AI for Beginners** (TaskUs) – Exploring Generative AI for personalized learning pathways.
+- **Enterprise Support** (Shopify) – 2+ years managing high-stakes digital infrastructure.
 
-| Project | Description | Tech Stack |
+---
+
+### 🚀 **Featured EdTech Projects**
+
+| Project | Key Focus | Tech Stack |
 | :--- | :--- | :--- |
-| **[Classroom Grade Automator](https://github.com/miriammolonx/classroom-grade-automator)** | Applying **Six Sigma** principles to reduce teacher administrative burden by 10x. | Python |
-| **[Student Data Preprocessor](https://github.com/miriammolonx/student-data-preprocessor)** | Automated **Pandas** pipeline to clean "messy" academic datasets for research. | Pandas, NumPy |
-| **[Productivity Timer](https://github.com/miriammolonx/student-productivity-timer)** | Focus tool implementing the Pomodoro technique for intensive study. | Python |
-| **[EdTech Roadmap](https://github.com/miriammolonx/edtech-learning-roadmap)** | Digital log of research in Global ICT Policy and School Management. | Markdown |
+| **[Classroom Grade Automator](...)** | **Process Optimization:** Reducing teacher admin load via automation. | Python |
+| **[Student Data Preprocessor](...)** | **Data Integrity:** Cleaning complex datasets for policy research. | Pandas, NumPy |
+| **[EdTech Roadmap](...)** | **Policy Research:** Documentation of Global ICT standards. | Markdown |
 
 ---
 
 ### 🌱 **Technical Toolkit**
-- **Data & Automation:** Python (Pandas, NumPy), Lean Six Sigma (Process Mapping).
-- **AI & Emerging Tech:** Generative AI Prompting, Educational Software Integration.
-- **Administration:** Google Workspace Admin, Enterprise Infrastructure (Shopify/Liquid).
-- **Research:** ICT Policy, Digital Divide, Comparative Education Management.
+- **Core:** Python (Data Analysis/Automation), Liquid, Git.
+- **Strategic:** Lean Six Sigma, AI Prompt Engineering, Enterprise Infrastructure.
+- **Languages:** English, Tagalog, Mandarin (Currently pursuing HSK 2/3).
 
 ---
 
