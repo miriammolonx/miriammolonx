@@ -11,7 +11,7 @@ I am a Computer Science graduate and Technical Support Advisor at Shopify. I app
 My research focus lies in **Educational Leadership & Policy (ELP)**, with a commitment to advancing ICT integration in developing school systems. 
 
 - **Primary Institution:** **East China Normal University (ECNU)** – Targeted for its excellence in International Comparative Education and Policy Research.
-- **Academic Network:** Also exploring synergies with **Beijing Normal University (BNU)** and **Central China Normal University (CCNU)** to broaden the scope of my ICT infrastructure research.
+- **Academic Network:** Also exploring synergies with **Shanghai University (SHU)** and **Central China Normal University (CCNU)** to broaden the scope of my ICT infrastructure research.
 
 ---
 
