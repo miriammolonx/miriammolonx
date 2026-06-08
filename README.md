@@ -8,10 +8,10 @@ I am a Computer Science graduate and Technical Support Advisor at Shopify. I app
 ---
 
 ### 🎓 **2026 Academic Trajectory**
-My research focus lies in **Educational Leadership & Policy (ELP)**, with a commitment to advancing ICT integration in developing school systems. 
+My research focus lies in **Master in Curriculum and Teaching Methodology / Global Curriculum Leadership**, with a commitment to advancing ICT integration in developing school systems. 
 
 - **Primary Institution:** **East China Normal University (ECNU)** – Targeted for its excellence in International Comparative Education and Policy Research.
-- **Academic Network:** Also exploring synergies with **Shanghai University (SHU)** and **Shanghai Normal University (SHNU)** to broaden the scope of my ICT infrastructure research.
+- **Academic Network:** Also exploring synergies with **Beijing Foreign Studies University (BFSU)** to broaden the scope of my ICT infrastructure research.
 
 ---
 
