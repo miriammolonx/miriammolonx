@@ -3,7 +3,7 @@
 ### **Computer Science Graduate | Aspiring EdTech & Curriculum Specialist**
 *Building lightweight, equitable educational technology to bridge learning gaps across low-bandwidth classrooms.*
 
-I am a Bachelor of Science in Computer Science graduate from **Pamantasan ng Lungsod ng Maynila (PLM)** with enterprise technical support experience across **Shopify** and **DIRECTV**. Combining software engineering, **Lean Six Sigma** process optimization, and formal pedagogical training, I focus on designing accessible digital learning systems within the **Philippines–China educational corridor**.
+I am a Bachelor of Science in Computer Science graduate from **Pamantasan ng Lungsod ng Maynila (PLM)** with a background in enterprise technical support, web infrastructure troubleshooting, and e-commerce platform operations. Combining software engineering, **Lean Six Sigma** process optimization, and formal pedagogical training, I focus on designing accessible digital learning systems within the **Philippines–China educational corridor**.
 
 ---
 
