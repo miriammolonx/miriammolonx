@@ -1,41 +1,44 @@
 # Hi there, I'm Miriam 👋
 
-### **Aspiring EdTech Director | CS Graduate | Process Optimization Specialist**
-*Leveraging data automation and enterprise infrastructure to bridge global education gaps.*
+### **Computer Science Graduate | Aspiring EdTech & Curriculum Specialist**
+*Building lightweight, equitable educational technology to bridge learning gaps across low-bandwidth classrooms.*
 
-I am a Computer Science graduate and Technical Support Advisor at Shopify. I apply **Lean Six Sigma** methodologies to optimize educational workflows and digital infrastructure, specifically within the China-Philippines educational corridor.
-
----
-
-### 🎓 **2026 Academic Trajectory**
-My research focus lies in **Master in Curriculum and Teaching Methodology / Global Curriculum Leadership**, with a commitment to advancing ICT integration in developing school systems. 
-
-- **Primary Institution:** **East China Normal University (ECNU)** – Targeted for its excellence in International Comparative Education and Policy Research.
-- **Academic Network:** Also exploring synergies with **Beijing Foreign Studies University (BFSU)** to broaden the scope of my ICT infrastructure research.
+I am a Bachelor of Science in Computer Science graduate from **Pamantasan ng Lungsod ng Maynila (PLM)** with over two years of enterprise technical support experience for **Shopify**. Combining software engineering, **Lean Six Sigma** process optimization, and formal pedagogical training, I focus on designing accessible digital learning systems within the **Philippines–China educational corridor**.
 
 ---
 
-### 📜 **Professional & Process Credentials**
-- **Lean Six Sigma White Belt** (TaskUs) – Applying DMAIC to reduce administrative friction in schools.
-- **AI for Beginners** (TaskUs) – Exploring Generative AI for personalized learning pathways.
-- **Enterprise Support** (Shopify) – 2+ years managing high-stakes digital infrastructure.
+### 🎓 **2027 Graduate Research Trajectory**
+My research centers on **offline-first Progressive Web Applications (PWAs)** and modular instructional design for secondary Computer Science education in connectivity-constrained public schools.
+
+- **East China Normal University (ECNU), Shanghai** – *Master in Global Curriculum Leadership (MA)*: Focusing on comparative curriculum reform, instructional resource governance, and rural–urban digital equity.
+- **Central China Normal University (CCNU), Wuhan** – *Master in Educational Technology (MS)*: Focusing on human–computer interaction, design-based research, and scalable learning systems.
 
 ---
 
-### 🚀 **Featured EdTech Projects**
+### 📜 **Research & Educator Credentials**
+- **Published Researcher** – *International Journal of Emerging Research (TIJER)* (Peer-reviewed machine learning classification study).
+- **Best Abstract Award & Presenter** – *Asia-Pacific Conference on Higher Education (APCHE 2025)*.
+- **Google Certified Educator (Level 2) & Gemini Certified Educator** – Google for Education.
+- **Certificate in Technology for Teaching and Learning** – University of the Philippines Open University (UPOU).
+- **Lean Six Sigma White Belt & AI Foundations** – Process optimization and applied AI workflows.
+
+---
+
+### 🚀 **Featured EdTech & Data Projects**
 
 | Project | Key Focus | Tech Stack |
 | :--- | :--- | :--- |
-| **[Classroom Grade Automator](...)** | **Process Optimization:** Reducing teacher admin load via automation. | Python |
-| **[Student Data Preprocessor](...)** | **Data Integrity:** Cleaning complex datasets for policy research. | Pandas, NumPy |
-| **[EdTech Roadmap](...)** | **Policy Research:** Documentation of Global ICT standards. | Markdown |
+| **[Classroom Grade Automator](https://github.com/miriammolonx/classroom-grade-automator)** | **Workflow Automation:** Reducing teacher administrative grading load via automated scripts. | Python |
+| **[Student Data Preprocessor](https://github.com/miriammolonx/student-data-preprocessor)** | **Data Integrity:** Automated pipeline for cleaning academic datasets in comparative education research. | Python, Pandas, NumPy |
+| **[EdTech Learning Roadmap](https://github.com/miriammolonx/edtech-learning-roadmap)** | **Systems & Pedagogy:** Structured documentation of EdTech concepts, school management systems, and Python tools. | Python, Markdown |
+| **[Student Productivity Timer](https://github.com/miriammolonx/student-productivity-timer)** | **Learner Focus:** Lightweight Pomodoro-style study timer supporting structured self-paced learning. | Python |
 
 ---
 
-### 🌱 **Technical Toolkit**
-- **Core:** Python (Data Analysis/Automation), Liquid, Git.
-- **Strategic:** Lean Six Sigma, AI Prompt Engineering, Enterprise Infrastructure.
-- **Languages:** English, Tagalog, Mandarin (Currently pursuing HSK 2/3).
+### 🌱 **Technical & Language Toolkit**
+- **Development & Data:** Python (Automation, Pandas, NumPy), Java, JavaScript, HTML5/CSS3, Progressive Web Apps (Service Workers, IndexedDB), SQL, Git.
+- **Instructional & Enterprise Systems:** Google Workspace for Education, LMS Design, Lean Six Sigma (DMAIC), Web Infrastructure Troubleshooting.
+- **Languages:** English (Fluent), Filipino (Native), Mandarin Chinese (HSK 1–2; preparing for HSK 3).
 
 ---
 
